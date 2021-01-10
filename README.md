@@ -13,7 +13,7 @@ I'm enthusiastic developer .
 - 🤔 I’m looking for help with Java and Spring 
 - 💬 Ask me about Movie 
 - 📫 How to reach me: polynomeer@gmail.com 
-- 😄 Pronouns: August, Polynomeer, Jacab 
+- 😄 Pronouns: August, Polynomeer, Jacob 
 - ⚡ Fun fact: ... 
 
 ### Skill
@@ -26,9 +26,9 @@ I'm enthusiastic developer .
 - `IntelliJ`, `VisualStdudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
 - `Slack`, `Jandi`, `Trello`, `Zoom`, `Hangout`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Polynomeer)  
 
