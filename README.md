@@ -24,8 +24,9 @@ I'm enthusiastic developer .
 
 ### Tools
 
-- `IntelliJ`, `VisualStdudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
-- `Slack`, `Jandi`, `Trello`, `Zoom`, `Hangout`
+- IDE : `IntelliJ`, `VisualStdudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
+- Team Collaboration Tool : `Slack`, `Jandi`, `Trello`, `Zoom`, `Hangout`
+- Digital Forensics tools : `EnCase`, `FTKimager`, `REGA`, `WEFA`
 
 ### Statistics
 
