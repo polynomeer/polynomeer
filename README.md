@@ -2,8 +2,8 @@
 **Polynomeer/Polynomeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋, I'm Polynomeer
-#### I am a backend developer
+## Hi there 👋, I'm Polynomeer
+### I am a back-end developer
 
 I'm enthusiastic developer.
 
