@@ -6,7 +6,7 @@
 #### I am a backend developer
 
 I'm enthusiastic developer .
-- 📜 ![Portfolio](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435)
+- 📜 [Portfolio](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435)
 - 🔭 I’m currently working on codesquad-backend 
 - 🌱 I’m currently learning `Java`, `Spring`, `CS` 
 - 👯 I’m looking to collaborate on the company using Java and Spring 
