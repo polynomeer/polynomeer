@@ -7,15 +7,13 @@
 
 I'm enthusiastic developer.
 
-- 📜　[Portfolio](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435)
-- 💼　I’m currently working on codesquad-backend 
+- 📜　My portfolio : [Portfolio](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435)
+- 💼　I’m currently studying on codesquad-backend 
 - 🌱　I’m currently learning `Java`, `Spring`, `CS` 
 - 👥　I’m looking to collaborate on the company using Java and Spring 
 - 🤔　I’m looking for help with `Java`, `Spring`
-- 💬　Ask me about Movie 
 - 📫　How to reach me: polynomeer@gmail.com 
-- 😄　Pronouns: August, Polynomeer, Jacob 
-- ⚡　Fun fact: ... 
+- 😄　Pronouns: August, Polynomeer, Jacob
 
 ### Skill
 
