@@ -26,7 +26,7 @@ I'm enthusiastic developer .
 - `IntelliJ`, `VisualStdudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
 - `Slack`, `Jandi`, `Trello`, `Zoom`, `Hangout`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true)  
 
