@@ -7,7 +7,7 @@
 
 I'm enthusiastic developer.
 
-- 📜　My sites : [**`Portfolio`**](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435), [`**TIL**`](https://polynomeer.github.io/), [`**Blog**`](https://velog.io/@polynomeer)
+- 📜　My sites : [**`Portfolio`**](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
 - 💼　I’m currently studying on codesquad-backend 
 - 🌱　I’m currently learning `Java`, `Spring`, `CS` 
 - 👥　I’m looking to collaborate on the company using Java and Spring 
