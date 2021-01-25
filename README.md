@@ -5,7 +5,7 @@
 ## Hi there 👋, I'm Polynomeer
 ### I am a back-end developer
 
-I'm enthusiastic developer.
+저는 모든 문제를 모델링하고 쉽게 이해하려고 노력합니다. 코드를 작성할 때에도 꼭 주석이나 문서가 없어도 누구나 알아볼 수 있도록 클린 코드를 작성하려고 노력하는 개발자입니다.
 
 - 📜　My sites : [**`Portfolio`**](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
 - 💼　I’m currently studying on codesquad-backend 
