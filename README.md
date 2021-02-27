@@ -23,7 +23,7 @@
 
 ### Tools
 
-- IDE : `IntelliJ`, `VisualStdudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
+- IDE : `IntelliJ`, `VisualStudio`, `VSCode`, `Eclipse`, `Atom`, `Xcode`
 - Team Collaboration Tool : `Slack`, `Jandi`, `Trello`, `Zoom`, `Hangout`
 - Digital Forensics tools : `EnCase`, `FTKimager`, `REGA`, `WEFA`
 
