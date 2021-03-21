@@ -33,9 +33,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true)
 
-[![Solved.ac/polynomeer
-](http://mazassumnida.wtf/api/generate_badge?boj=polynomeer)](https://solved.ac/polynomeer)
-
 ![Profile views](https://gpvc.arturio.dev/Polynomeer)  
 
 
