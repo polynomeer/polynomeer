@@ -9,17 +9,18 @@
 
 - 📜　My sites : [**`Portfolio`**](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
 - 💼　I’m currently studying on codesquad-backend 
-- 🌱　I’m currently learning `Java`, `Spring`, `CS` 
+- 🌱　I’m currently learning `Java`, `Spring`, `SpringBoot`, `JPA`, `MySQL`, `AWS`, `CS` 
 - 👥　I’m looking to collaborate on the company using Java and Spring 
-- 🤔　I’m looking for help with `Java`, `Spring`
+- 🤔　I’m looking for help with `Java`, `Spring`, `SpringBoot`, `JPA`, `AWS`, `MySQL`
 - 📫　How to reach me: pisnp@naver.com 
 - 😄　Pronouns: August, Polynomeer, Jacob
 
 ### Skill
 
+- Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 - Information Security : ![DigitalForensics](https://img.shields.io/badge/-Digital%20Forensics-blue)
 - Language: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/-C%2B%2B-blue) ![EnScript](https://img.shields.io/badge/-EnScript-orange)
-- Backend: ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
+
 
 ### Tools
 
