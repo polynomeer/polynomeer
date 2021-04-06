@@ -12,7 +12,7 @@
 - 🌱　I’m currently learning `Java`, `Spring`, `CS` 
 - 👥　I’m looking to collaborate on the company using Java and Spring 
 - 🤔　I’m looking for help with `Java`, `Spring`
-- 📫　How to reach me: polynomeer@gmail.com 
+- 📫　How to reach me: pisnp@naver.com 
 - 😄　Pronouns: August, Polynomeer, Jacob
 
 ### Skill
