@@ -7,7 +7,7 @@
 
 저는 모든 문제를 쉽게 모델링하고 이해하려고 노력합니다. 모든 문제를 반드시 복잡한 코드로 해결해야할 필요는 없습니다. 때로는 좋은 구조나 좋은 정책이 얼마든지 더 좋은 해결방법이 되기도 합니다.
 
-- 📜　My sites : [**`Portfolio`**](https://www.notion.so/Polynomeer-7f977138e5e1440e817570cbbd707435), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
+- 📜　My sites : [**`Portfolio`**](https://amplified-apple-303.notion.site/130c9d7b5e554a4b86991428800cd611), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
 - 💼　I’m currently working on The Pirates
 - 🌱　I’m currently learning `Java`, `Kotlin`, `Spring`, `SpringBoot`, `JPA`, `MySQL`, `AWS`
 - 👥　I’m looking to collaborate on the company using Java and Spring 
