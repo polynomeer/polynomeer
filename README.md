@@ -9,7 +9,7 @@
 
 - 📜　My sites : [**`Portfolio`**](https://amplified-apple-303.notion.site/130c9d7b5e554a4b86991428800cd611), [**`TIL`**](https://polynomeer.github.io/), [**`Blog`**](https://velog.io/@polynomeer)
 - 🌱　I’m currently learning `Java`, `Kotlin`, `Spring`, `SpringBoot`, `JPA`, `MySQL`, `AWS`
-- 👥　I’m working for [!Dreamus Company](https://github.com/music-flo).
+- 👥　I’m working for [Dreamus Company](https://github.com/music-flo).
 - 🤔　I’m looking for help with `Java`, `Spring`, `SpringBoot`, `JPA`, `AWS`, `MySQL`
 - 📫　How to reach me: pisnp@naver.com 
 - 😄　Pronouns: August, Polynomeer, Jacob, Conomeer
