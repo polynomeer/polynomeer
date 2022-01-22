@@ -27,7 +27,5 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=polynomeer&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98.4%/>
 </a>
 
-<br><br><br>
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true) -->
