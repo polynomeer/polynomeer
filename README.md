@@ -24,7 +24,7 @@
  <img src="https://raw.githubusercontent.com/Polynomeer/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=polynomeer&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=polynomeer&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98.4%/>
 </a>
 
 <br><br><br>
