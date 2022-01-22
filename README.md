@@ -13,4 +13,12 @@
 ### Skills
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=Spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-orange.svg?&style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-blue.svg?&style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=square&logo=C%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-0059DD?style=square&logo=C&logoColor=white)
 
+### Statistics
+
+<p style="display:inline;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true" />
+</p>
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polynomeer&layout=compact&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true) -->
