@@ -4,7 +4,7 @@
 
 ## Hi there 👋, I'm Polynomeer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-informational.svg?&style=flat&logo=notion&logoColor=white)](https://amplified-apple-303.notion.site/130c9d7b5e554a4b86991428800cd611) [![TIL Blog](https://img.shields.io/badge/TIL%20Blog-333664?&style=flat&logo=github&logoColor=white)](https://polynomeer.github.io/) [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=square&logo=Vimeo&logoColor=white)](https://velog.io/@polynomeer) ![polynomeer@gmail.com](https://img.shields.io/badge/polynomeer@gmail.com-red.svg?&style=flat&logo=gmail&logoColor=white) ![pisnp@naver.com](https://img.shields.io/badge/pisnp@naver.com-03C75A?style=square&logo=naver&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-informational.svg?&style=flat&logo=notion&logoColor=white)](https://amplified-apple-303.notion.site/130c9d7b5e554a4b86991428800cd611) [![TIL Blog](https://img.shields.io/badge/TIL%20Blog-333664?&style=flat&logo=github&logoColor=white)](https://polynomeer.github.io/) [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=square&logo=Vimeo&logoColor=white)](https://velog.io/@polynomeer) ![polynomeer@gmail.com](https://img.shields.io/badge/polynomeer@gmail.com-red.svg?&style=flat&logo=gmail&logoColor=white) ![polynomeer@naver.com](https://img.shields.io/badge/polynomeer@naver.com-03C75A?style=square&logo=naver&logoColor=white)
 
 ### Make Non Polynomial Polynomial. 어려운 문제를 어렵지 않게.
 
