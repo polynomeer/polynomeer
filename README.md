@@ -15,11 +15,9 @@
 
 ### Statistics
 
-<div align="center">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=polynomeer&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
-</a>
+</a></br>
 <a href="https://github.com/polynomeer/github-stats">
  <img src="https://raw.githubusercontent.com/Polynomeer/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
