@@ -39,7 +39,7 @@ That’s why I’m committed to making hard problems feel simple.
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="github-readme-stats-rho-one-51.vercel.app/api/top-langs/?username=polynomeer&layout=compact&theme=blueberry&hide_border=true" />
+        <img src="https://github-readme-stats-rho-one-51.vercel.app/api/top-langs/?username=polynomeer&layout=compact&theme=blueberry&hide_border=true" />
       </a>
     </td>
     <td>
