@@ -27,7 +27,7 @@ That’s why I’m committed to making hard problems feel simple.
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-polynomeers-projects.vercel.app/api?username=polynomeer&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&v=2" />
+        <img src="https://github-readme-stats-rho-one-51.vercel.app/api?username=polynomeer&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" />
       </a>
     </td>
     <td>
@@ -39,11 +39,11 @@ That’s why I’m committed to making hard problems feel simple.
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-polynomeers-projects.vercel.app/api/top-langs/?username=polynomeer&layout=compact&theme=blueberry&hide_border=true&v=2" />
+        <img src="github-readme-stats-rho-one-51.vercel.app/api/top-langs/?username=polynomeer&layout=compact&theme=blueberry&hide_border=true" />
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats-polynomeers-projects.vercel.app/api?username=polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true&v=2" />
+      <img src="https://github-readme-stats-rho-one-51.vercel.app/api?username=polynomeer&show_icons=true&count_private=true&theme=blueberry&hide_border=true" />
     </td>
   </tr>
 </table>
