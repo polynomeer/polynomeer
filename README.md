@@ -23,14 +23,14 @@ In large data-processing environments I locate bottlenecks by measurement (heap 
 
 | Repository | What it demonstrates |
 | --- | --- |
-| [parity-pay](https://github.com/polynomeer/parity-pay) | Payment and double-entry ledger backend that keeps financial invariants under duplicate requests, concurrent debits, lost external responses, and process restarts. 26 load and failure experiments, 11 defects found and documented. |
-| [monticker](https://github.com/polynomeer/monticker) | Event-centric stock monitoring: EMA-based anomaly detection over a 1-second ingestion loop, TimescaleDB continuous aggregates, OpenTelemetry tracing. |
-| [spring-lab](https://github.com/polynomeer/spring-lab) | 20-week walk through Spring internals — container, bean lifecycle, AOP, transactions, MVC, Boot auto-configuration — verified against source and reproduced in 22 reduced modules with 217 tests. |
-| [spring-lite](https://github.com/polynomeer/spring-lite) | Minimal Spring reimplementation: IoC/DI, bean lifecycle, proxy-based AOP, `@Transactional`, MVC dispatcher. |
+| [parity-pay](https://github.com/polynomeer/parity-pay) | Prepaid wallet payment and double-entry ledger backend. Lost bank responses are kept as an undetermined state and settled by status query instead of retried; moving the balance debit to the end of the transaction cut same-wallet lock hold; 11 failure scenarios reproduced against mock institutions. |
+| [monticker](https://github.com/polynomeer/monticker) | Event-centric stock monitoring: volume surges judged as multiples of an EMA baseline, one record per change per minute enforced by a pre-save check and a DB constraint, TimescaleDB continuous aggregates, OpenTelemetry tracing. |
+| [quno](https://github.com/polynomeer/quno) | Developer Q&A that keeps every question revision. Concurrent edits lock the question row before computing the next version, change and notification request commit in one transaction, verified by an 8-thread integration test. |
+| [sys-drill](https://github.com/polynomeer/sys-drill) | Backend failure-handling practice platform: six exercises graded by staged tests, design answers scored by an AI evaluator whose output the server validates and recomputes, evaluation run from a Redis queue with a retry limit. |
+| [spring-lab](https://github.com/polynomeer/spring-lab) | 20-week walk through Spring internals — container, bean lifecycle, AOP, transactions, MVC, Boot auto-configuration — verified against source and reproduced in reduced modules with tests. |
 | [redis-lite-java](https://github.com/polynomeer/redis-lite-java) | Redis clone on Java NIO: RESP protocol, single-threaded reactor, expiry heap, transactions, Pub/Sub, Lua. |
-| [starkraft](https://github.com/polynomeer/starkraft) | Deterministic RTS simulation core with versioned protocol, replay verification, and CI soak tests. |
 
-Long-form write-ups live on the blog: [batch consistency series](https://polynomeer.github.io/series/batch-structure-improvement/), [key generation bottleneck series](https://polynomeer.github.io/series/sequence-bottleneck/), [Redis internals via redis-lite-java](https://polynomeer.github.io/series/redis-lite-java/).
+Long-form write-ups live on the blog: [ParityPay series](https://polynomeer.github.io/series/parity-pay/), [monticker series](https://polynomeer.github.io/series/monticker/), [batch consistency series](https://polynomeer.github.io/series/batch-structure-improvement/), [key generation bottleneck series](https://polynomeer.github.io/series/sequence-bottleneck/).
 
 ### Stack
 
