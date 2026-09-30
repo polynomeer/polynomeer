@@ -2,6 +2,10 @@
 **Polynomeer/Polynomeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&duration=2800&pause=1200&color=7EE787&center=true&vCenter=true&width=560&lines=%24+whoami;polynomeer+%E2%80%94+backend+engineer;%24+cat+motto.txt;Make+Non-Polynomial+Polynomial.;%24+echo+%24INTERESTS;concurrency%2C+Redis+internals%2C+someday+my+own+product" alt="typing banner" />
+</p>
+
 [![Blog](https://img.shields.io/badge/Tech%20Blog-333664?&style=flat&logo=github&logoColor=white)](https://polynomeer.github.io/) [![For Recruiters](https://img.shields.io/badge/For%20Recruiters-2F855A?&style=flat&logo=readme&logoColor=white)](https://polynomeer.github.io/about/) ![polynomeer@gmail.com](https://img.shields.io/badge/polynomeer@gmail.com-red.svg?&style=flat&logo=gmail&logoColor=white)
 
 <p align="center">
