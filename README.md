@@ -15,7 +15,6 @@ polynomeer@github
 -----------------
 Role       backend engineer
 Focus      state machines, locks, transaction boundaries
-Repos      <img src="https://img.shields.io/github/repos/polynomeer?style=flat&label=%20&color=7EE787&logo=github" alt="repo count" height="18" />
 Followers  <img src="https://img.shields.io/github/followers/polynomeer?style=flat&label=%20&color=BF91F3&logo=github" alt="followers" height="18" />
 Stars      <img src="https://img.shields.io/github/stars/polynomeer?style=flat&label=%20&color=70A5FD&logo=github&affiliations=OWNER" alt="stars" height="18" />
 </pre>
